@@ -23,7 +23,8 @@ public class Monument {
     private String countryCode;
     private String countryName;
     private String cityName;
-    private Map<Float,Float> location;
+    private Double latitude;
+    private Double longitude;
     private String name;
     private String desc;
     private String photoURL;
